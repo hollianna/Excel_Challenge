@@ -144,3 +144,16 @@ To loop through all worksheets in the workbook, add the following at the beginni
         ws.Activate  ' Activate the worksheet
 
 
+
+        
+ <img width="1031" alt="Screenshot 2024-10-10 at 6 11 52 AM" src="https://github.com/user-attachments/assets/f748c4e6-e42a-40d2-8907-af6de822c67c">
+ 
+<img width="1029" alt="Screenshot 2024-10-10 at 6 13 26 AM" src="https://github.com/user-attachments/assets/cd2d1129-f9e1-4ddd-8549-1b59689f92c6">
+
+<img width="1029" alt="Screenshot 2024-10-10 at 6 13 39 AM" src="https://github.com/user-attachments/assets/aac67af4-ab5b-46e6-82b1-aed77019c888">
+
+<img width="1035" alt="Screenshot 2024-10-10 at 6 13 52 AM" src="https://github.com/user-attachments/assets/127c458a-17cc-46f0-beed-0b7a67829165">
+
+
+
+
